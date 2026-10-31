@@ -1,0 +1,21 @@
+{
+  "name": "insightfulpipe-ecommerce",
+  "displayName": "InsightfulPipe E-commerce Skills",
+  "description": "23 free Claude skills for online stores and marketplaces: store reports, promotions, AOV, bundles, inventory, returns, profit on ad spend, Amazon Ads, TikTok Shop and Etsy.",
+  "version": "2026.10.3107",
+  "author": {
+    "name": "InsightfulPipe",
+    "url": "https://insightfulpipe.com"
+  },
+  "homepage": "https://insightfulpipe.com/marketing-claude-skills",
+  "repository": "https://github.com/Insightful-Pipe/ecommerce-skills",
+  "license": "MIT",
+  "keywords": [
+    "ecommerce",
+    "shopify",
+    "amazon-ads",
+    "tiktok-shop",
+    "claude-skills",
+    "marketing"
+  ]
+}

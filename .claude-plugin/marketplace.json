@@ -1,0 +1,18 @@
+{
+  "name": "insightfulpipe-ecommerce",
+  "owner": {
+    "name": "InsightfulPipe",
+    "url": "https://insightfulpipe.com"
+  },
+  "metadata": {
+    "description": "23 free Claude skills for online stores and marketplaces: store reports, promotions, AOV, bundles, inventory, returns, profit on ad spend, Amazon Ads, TikTok Shop and Etsy.",
+    "version": "2026.10.3107"
+  },
+  "plugins": [
+    {
+      "name": "insightfulpipe-ecommerce",
+      "description": "23 free Claude skills for online stores and marketplaces: store reports, promotions, AOV, bundles, inventory, returns, profit on ad spend, Amazon Ads, TikTok Shop and Etsy.",
+      "source": "./"
+    }
+  ]
+}

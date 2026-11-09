@@ -53,7 +53,7 @@ Download a skill's ZIP from its page on insightfulpipe.com (the **Page** links b
 | [Stock-Out and Excess Inventory Planner](skills/inventory-planner/) | Plans marketing around stock, with days of cover and reorder-by dates per variant, holding low stock out of Shopping, Performance Max, Meta catalog ads and emails, and… |  |
 | [Store Site Search Analyst](skills/store-site-search-analyst/) | Analyses a store's GA4 or Shopify site search terms against its catalogue, classing failed searches as misspellings, synonyms, sold out or not carried, and ranks fixes… |  |
 | [TikTok Shop GMV Max Planner](skills/tiktok-shop-gmv-max-planner/) | Plans and reviews TikTok Shop GMV Max ads, setting ROI targets from product margins, grouping products into campaigns, ramping budgets and giving weekly scale, fix or… |  |
-| [TikTok Shop Launch and Growth Planner](skills/tiktok-shop-planner/) | Plans a TikTok Shop launch or growth push, picking hero products and setting launch prices, affiliate commission, creator samples and a LIVE schedule from each… |  |
+| [TikTok Shop Planner](skills/tiktok-shop-planner/) | Plans a TikTok Shop launch or growth push, picking hero products and setting launch prices, affiliate commission, creator samples and a LIVE schedule from each… | [Page](https://insightfulpipe.com/marketing-claude-skills/marketplaces/tiktok-shop-planner) |
 
 ## Live data (optional)
 
